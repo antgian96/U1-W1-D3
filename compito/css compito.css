@@ -1,0 +1,10 @@
+#hr {border: 1px solid; color: gold;}
+#bannercontainer {background-color: aquamarine; width:"200px" height:"200px"}
+#banner {color: blue;}
+p {font-family:  "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;}
+#hidden{visibility: hidden;}
+#titolo {font-family:  "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: bold; color: darkslategray;}
